@@ -1,0 +1,5 @@
+baseURL = "https://hunnyian.tech/"
+languageCode = "en-us"
+title = "hunnyian"
+theme = "terminalcv"
+draft = false
